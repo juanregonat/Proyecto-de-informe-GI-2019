@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Proyecto de informe GI 2019", "Proyecto de informe GI 2019\Proyecto de informe GI 2019.rptproj", "{8FF21742-3803-4A8C-BAD4-9C2E789C249F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF21742-3803-4A8C-BAD4-9C2E789C249F}.Debug|Default.ActiveCfg = Debug
+		{8FF21742-3803-4A8C-BAD4-9C2E789C249F}.Debug|Default.Build.0 = Debug
+		{8FF21742-3803-4A8C-BAD4-9C2E789C249F}.Debug|Default.Deploy.0 = Debug
+		{8FF21742-3803-4A8C-BAD4-9C2E789C249F}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{8FF21742-3803-4A8C-BAD4-9C2E789C249F}.DebugLocal|Default.Build.0 = DebugLocal
+		{8FF21742-3803-4A8C-BAD4-9C2E789C249F}.Release|Default.ActiveCfg = Release
+		{8FF21742-3803-4A8C-BAD4-9C2E789C249F}.Release|Default.Build.0 = Release
+		{8FF21742-3803-4A8C-BAD4-9C2E789C249F}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CFD9C12-0027-42CA-8F99-DE5039C12814}
+	EndGlobalSection
+EndGlobal
